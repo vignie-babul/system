@@ -4,9 +4,10 @@
 name = "${1:name}"
 version = "0.1.0"
 description = ""
-requires-python = ">=3.12"
+readme = "README.md"
+requires-python = ">=3.14"
 dependencies = [
-
+	
 ]
 
 
