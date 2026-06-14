@@ -4,4 +4,6 @@
 
 # cmus config
 
+set altformat_playlist= %F%= %d %{?X!=0?%3X ?    }
+set altformat_trackwin= %F
 set altformat_title=%F
